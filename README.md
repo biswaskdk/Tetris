@@ -1,20 +1,25 @@
-# Tetris
-In my CSCI 282 course, I independently developed a classic Tetris game using object-oriented programming (OOP) principles in Java. The project spanned four months and involved implementing core Java functionalities to achieve various gameplay features.
+# Tetris Project
 
-# These are the major features of the Tetris:
-![Screenshot 2024-03-31 003759](https://github.com/biswaskdk/Tetris/assets/144484530/d5dce2e0-3a08-4aac-95c1-3a92dbc25089)
+During my CSCI 282 course, I embarked on an independent project to develop a classic Tetris game using object-oriented programming (OOP) principles in Java. Over the course of four months, I dedicated myself to implementing core Java functionalities to create a feature-rich gameplay experience.
 
-I had fully functioning Tetris Game with Score features.
+## Key Features:
 
-![Screenshot 2024-03-31 003838](https://github.com/biswaskdk/Tetris/assets/144484530/18866ce6-f8e6-42dd-86ba-05974cb9d0e8)
+![Tetris Screenshot 1](https://github.com/biswaskdk/Tetris/assets/144484530/d5dce2e0-3a08-4aac-95c1-3a92dbc25089)
 
-It has GAME OVER and New Game feature.
+- **Fully Functioning Gameplay**: I successfully developed a fully functional Tetris game, ensuring smooth and engaging gameplay for users.
 
-![Screenshot (5)](https://github.com/biswaskdk/Tetris/assets/144484530/6173df15-1deb-4cc4-aab5-cd1ba499e512)
+![Tetris Screenshot 2](https://github.com/biswaskdk/Tetris/assets/144484530/18866ce6-f8e6-42dd-86ba-05974cb9d0e8)
 
-![Screenshot (4)](https://github.com/biswaskdk/Tetris/assets/144484530/4915a704-acb4-4aa4-a24e-e68b7c579827)
+- **Score Tracking**: Implemented a score feature to keep track of players' performance throughout the game.
 
-![Screenshot (3)](https://github.com/biswaskdk/Tetris/assets/144484530/e6972e84-170a-4613-8bac-a5370e821cd9)
+![Tetris Screenshot 3](https://github.com/biswaskdk/Tetris/assets/144484530/6173df15-1deb-4cc4-aab5-cd1ba499e512)
 
+- **Game Over and New Game Functionality**: Included features for ending the game and starting anew, ensuring seamless transitions for players.
 
-The Other features include New Game, Save Game, Load Game, Leaderboard and ability to change the Tetris Board size.
+![Tetris Screenshot 4](https://github.com/biswaskdk/Tetris/assets/144484530/4915a704-acb4-4aa4-a24e-e68b7c579827)
+
+- **Additional Features**: Extended gameplay experience with options for saving and loading games, maintaining a leaderboard, and providing the flexibility to change the Tetris board size.
+
+![Tetris Screenshot 5](https://github.com/biswaskdk/Tetris/assets/144484530/e6972e84-170a-4613-8bac-a5370e821cd9)
+
+This Tetris project showcases my proficiency in Java programming and demonstrates my ability to apply OOP principles to create interactive and feature-rich applications.
